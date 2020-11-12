@@ -1,0 +1,14 @@
+{
+  "name" : "Keaton's Weapon Realism Rebalance",
+  "description" : "A weapon mod I created to make the weapons in Payday 2 more closely refelct their real life counterparts.",
+  "author" : "Keaton Eyre",
+  "contact" : "reddit.com/u/korrupt5223",
+  "version" : "1.0",
+ 
+  "hooks" : [
+  {
+    "hook_id" : "lib/tweak_data/weapontweakdata",
+    "script_path" : "WeaponRealismRebalance.lua"
+  }
+  ]
+}

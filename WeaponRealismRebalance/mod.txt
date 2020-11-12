@@ -4,8 +4,8 @@
   "author" : "Keaton Eyre",
   "contact" : "reddit.com/u/korrupt5223",
   "version" : "1.0",
-  "hooks" : [
-  {
-    "hook_id" : "lib/tweak_data/weapontweakdata", "script_path" : "WeaponRealismRebalance.lua"
-  }]
+  "hooks" : 
+  [
+    { "hook_id" : "lib/tweak_data/weapontweakdata", "script_path" : "WeaponRealismRebalance.lua" }
+  ]
 }
